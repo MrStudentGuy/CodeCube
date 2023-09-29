@@ -2,7 +2,9 @@
 
 **Project Description**
 
-CodeCube is an innovative educational tool designed to make programming fun and accessible for kids and beginners. It's a Unity-based platform that combines the excitement of gaming with the fundamentals of coding. With CodeCube, you can learn programming concepts by controlling a virtual vehicle using a simple and intuitive programming language.
+CodeCube is an innovative educational tool designed to make programming fun and accessible for kids and beginners. It's a Unity-based platform that combines the excitement of gaming with the fundamentals of coding. With CodeCube, you can learn programming concepts by controlling a virtual vehicle using a simple and intuitive programming language.  
+CodeCube was created to introduce kid's to text-based programming, instead of starting off with block-based programming. This allows the transition to mainstream production languages such as C++/C, C#, or Java easier.
+
 
 ## Getting Started
 
@@ -22,6 +24,8 @@ CodeCube uses a unique and user-friendly syntax to teach programming concepts. H
 - **Commands**: The language operates on verbs followed by parameters, terminated by a semicolon (`;`). Each line is executed with a 0.3-second interval.
 
 - **Execution Order**: Code is executed from top to bottom, ensuring that no asynchronous actions can take place.
+
+- **Code Comments**: Lines starting with two forward slashes ('//') are ignored by the parser, allowing for code comments.
 
 #### Example
 
@@ -60,13 +64,9 @@ MOVE(5);
    // This code repeats the MOVE(1) and ROTATE(90) commands 4 times.
    ```
 
-4. **PRINT(X)**: Prints parameter X to the console. X can be a string, a number, or a function (e.g., `GetX()` or `GetY()`).
+4. **STOP()**: Stops execution and parsing of code.
 
-5. **STOP()**: Stops execution and parsing of code.
-
-6. **RESET()**: Sets `transform.position` of the vehicle to the point where play mode began.
-
-Certainly! Here's the updated licensing section with the GNU General Public License v3.0:
+5. **RESET()**: Sets `transform.position` of the vehicle to the point where play mode began.
 
 ## License
 
