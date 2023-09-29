@@ -2,7 +2,7 @@
 
 **Project Description**
 
-CodeCube is an innovative educational tool designed to make programming fun and accessible for kids and beginners. It's a Unity-based platform that combines the excitement of gaming with the fundamentals of coding. With CodeCube, you can learn programming concepts by controlling a virtual vehicle using a simple and intuitive programming language.  
+CodeCube is an innovative educational tool designed to make programming fun and accessible for kids and beginners. It's a Unity-based platform that combines the excitement of gaming with the fundamentals of coding. With CodeCube, you can learn programming concepts by controlling a virtual vehicle using a simple and intuitive programming language. <br> 
 CodeCube was created to introduce kid's to text-based programming, instead of starting off with block-based programming. This allows the transition to mainstream production languages such as C++/C, C#, or Java easier.
 
 
