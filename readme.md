@@ -12,7 +12,7 @@ CodeCube was created to introduce kid's to text-based programming, instead of st
 
 To get started with CodeCube, follow these steps:
 
-1. Clone the CodeCube repository from [GitHub](https://github.com/YourUsername/CodeCube).
+1. Clone the CodeCube repository from [GitHub](https://github.com/MrStudentGuy/CodeCube).
 2. Open the project in Unity.
 3. Explore the code and assets to understand how the game is built.
 4. Run the game to start coding and playing!
